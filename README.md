@@ -7,7 +7,7 @@
 ### Um pouco sobre mim
  Atualmente estou  estudando Engenharia de Computação no IFTM UPT. Busco estar sempre aprendendendo, ainda mais quando o assunto é programação. Sou organizado, dedicado e valorizo o trabalho em equipe. Tenho facilidade em me relacionar com as pessoas. Estou entusiasmado  para contribuir com  projetos na área de tecnologia. Se você quiser colaborar ou se conectar, fique à vontade para entrar em contato comigo.
 
-### O que atualmente estou estudando
+### O que estou estudando
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html15" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html15" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
